@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Dashboard-EV/static/css/main.9b1a113f.css",
-    "main.js": "/Dashboard-EV/static/js/main.d35357f5.js",
+    "main.js": "/Dashboard-EV/static/js/main.be791b72.js",
     "static/js/453.9057b05e.chunk.js": "/Dashboard-EV/static/js/453.9057b05e.chunk.js",
     "index.html": "/Dashboard-EV/index.html",
     "main.9b1a113f.css.map": "/Dashboard-EV/static/css/main.9b1a113f.css.map",
-    "main.d35357f5.js.map": "/Dashboard-EV/static/js/main.d35357f5.js.map",
+    "main.be791b72.js.map": "/Dashboard-EV/static/js/main.be791b72.js.map",
     "453.9057b05e.chunk.js.map": "/Dashboard-EV/static/js/453.9057b05e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b1a113f.css",
-    "static/js/main.d35357f5.js"
+    "static/js/main.be791b72.js"
   ]
 }
