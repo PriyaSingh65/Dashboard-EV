@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, BrowserRouter } from 'react-router-dom';
 
 import Dashboard from './components/Dashboard';
 
@@ -13,5 +13,6 @@ const App = () => {
     </Router>
   );
 };
+<BrowserRouter basename="DashBoard-EV"><App/></BrowserRouter>
 
 export default App;
