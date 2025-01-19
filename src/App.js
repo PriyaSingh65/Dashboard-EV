@@ -13,6 +13,6 @@ const App = () => {
     </Router>
   );
 };
-<BrowserRouter basename="DashBoard-EV"><App/></BrowserRouter>
+<BrowserRouter basename="Dashboard-EV"><App/></BrowserRouter>
 
 export default App;
